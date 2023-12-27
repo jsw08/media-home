@@ -62,7 +62,7 @@ const CONFIG = {
 			id: "2",
 			name: "Movie-Web",
 			icon: "popcorn",
-			link: "https://movie-web.app",
+			link: "https://flix.jswdev.nl,
 		},
 		{
 			id: "3",
@@ -86,7 +86,7 @@ const CONFIG = {
 			id: "6",
 			name: "Your mind only.",
 			icon: "book-lock",
-			link: "https://xvideos.com",
+			link: "https://literotica.com/",
 		},
 
 	],
