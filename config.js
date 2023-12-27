@@ -62,7 +62,7 @@ const CONFIG = {
 			id: "2",
 			name: "Movie-Web",
 			icon: "popcorn",
-			link: "https://flix.jswdev.nl,
+			link: "https://flix.jswdev.nl",
 		},
 		{
 			id: "3",
