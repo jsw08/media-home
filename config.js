@@ -76,18 +76,18 @@ const CONFIG = {
 			icon: "music",
 			link: "https://open.spotify.com",
 		},
-		{
-			id: "5",
-			name: "Your eyes only.",
-			icon: "file-lock-2",
-			link: "https://xvideos.com",
-		},
-		{
-			id: "6",
-			name: "Your mind only.",
-			icon: "book-lock",
-			link: "https://literotica.com/",
-		},
+		// {
+		// 	id: "5",
+		// 	name: "Your eyes only.",
+		// 	icon: "file-lock-2",
+		// 	link: "https://xvideos.com",
+		// },
+		// {
+		// 	id: "6",
+		// 	name: "Your mind only.",
+		// 	icon: "book-lock",
+		// 	link: "https://literotica.com/",
+		// },
 
 	],
 
